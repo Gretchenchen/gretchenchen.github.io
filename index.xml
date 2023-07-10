@@ -1,24 +1,36 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>the bright little things</title>
+    <title>记一忘三二</title>
     <link>http://gretchenchen.github.io/</link>
-    <description>Recent content on the bright little things</description>
+    <description>Recent content on 记一忘三二</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2023 13:12:31 -0400</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 10 Jul 2023 14:11:03 -0400</lastBuildDate>
     
         <atom:link href="http://gretchenchen.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
-        <title>Myfirstpost this is the post title</title>
+        <title>万物既渺小又伟大</title>
+        <link>http://gretchenchen.github.io/posts/secondpost/</link>
+        <pubDate>Mon, 10 Jul 2023 14:11:03 -0400</pubDate>
+        
+        <guid>http://gretchenchen.github.io/posts/secondpost/</guid>
+        <description>记一忘三二 http://gretchenchen.github.io/posts/secondpost/ -&lt;p&gt;cookie在收拾自己的毛&lt;/p&gt;
+- http://gretchenchen.github.io/posts/secondpost/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>万物有灵且美</title>
         <link>http://gretchenchen.github.io/posts/myfirstpost/</link>
-        <pubDate>Mon, 10 Jul 2023 13:12:31 -0400</pubDate>
+        <pubDate>Mon, 10 Jul 2023 14:09:43 -0400</pubDate>
         
         <guid>http://gretchenchen.github.io/posts/myfirstpost/</guid>
-        <description>the bright little things http://gretchenchen.github.io/posts/myfirstpost/ -&lt;p&gt;this is some content&lt;/p&gt;
+        <description>记一忘三二 http://gretchenchen.github.io/posts/myfirstpost/ -&lt;p&gt;cookie喊我出去玩出去玩出去玩玩玩玩玩玩玩玩&lt;/p&gt;
 - http://gretchenchen.github.io/posts/myfirstpost/ - </description>
         </item>
     
